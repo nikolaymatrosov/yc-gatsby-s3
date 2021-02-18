@@ -33,7 +33,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-s3`,
       options: {
-        bucketName: 'nikolaymatrosov.ru',
+        bucketName: '<bucket-name>',
         region: 'us-east-1',
         customAwsEndpointHostname: 'storage.yandexcloud.net'
       },
