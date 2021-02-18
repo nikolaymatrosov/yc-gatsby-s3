@@ -3,7 +3,7 @@
 npm install -g gatsby-cli
 gatsby new gatsby-site
 cd gatsby-site
-npm i gatsby-plugin-s3 --save-dev
+npm i gatsby-plugin-s3
 ```
 
 Дальше создаем ключ Статический ключ доступа для Сервисного Аккаунта в Yandex.Cloud.
