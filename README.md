@@ -6,7 +6,7 @@ cd gatsby-site
 npm i gatsby-plugin-s3
 ```
 
-Дальше создаем ключ Статический ключ доступа для Сервисного Аккаунта в Yandex.Cloud.
+Дальше создаем ключ [Статический ключ доступа](https://cloud.yandex.ru/docs/iam/operations/sa/create-access-key) для Сервисного Аккаунта в Yandex.Cloud.
 
 Затем соответственно инструкциям с сайта плагина [gatsby-s3](https://www.gatsbyjs.com/plugins/gatsby-plugin-s3/#globally) и
 с [сайта Облака](https://cloud.yandex.ru/docs/storage/tools/aws-cli) настраиваем консольный клиент к S3.
